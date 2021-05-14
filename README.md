@@ -11,11 +11,13 @@ I have explained the use of Function incase it may pull you off.
 Basic low texture code in Python 3.
 
 
-Beginners' would love to have a look at this, Used Popular Visualzation Libraries 
+Beginners' would love to have a look at this, Used Popular Visualization Libraries 
 i.e. Matplotlib, seaborn, etc
 
-others forms of plot for data visulazation are boxplot, pie-chart, Cat plot, heatmap, etc
+others forms of plot for data visulization are boxplot, pie-chart, Cat plot, heatmap, Pairwise etc
 Data cleaning & Checked out the business moments as well.
 
 
-Code is concise and please ping in case any issues with the Pycode.
+Code is concise and please bring to notice in case any issues with the Pycode.
+
+Glad if you have "LEARNT" something out of it.
