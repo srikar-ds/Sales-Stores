@@ -1,5 +1,5 @@
 # Sales-Stores
-perform EDA, to deduce insights through Data visualization to cover for the losses by making Greater profits in targeted regions.
+performed EDA, to deduce through Data visualization to cover for the losses by making getting dataful insights to boost your Sales in targeted regions. Sales implies Profits.
 
 
 
